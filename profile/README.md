@@ -1,5 +1,7 @@
 ## Hi there 👋
-https://pedopot.atlassian.net/jira/core/projects/PEDO/board?groupBy=status
+
+
+JIRA : https://pedopot.atlassian.net/jira/core/projects/PEDO/board?groupBy=status
 <!--
 
 **Here are some ideas to get you started:**
