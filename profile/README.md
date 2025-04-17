@@ -1,5 +1,7 @@
-## Hi there 👋
+# PedoPot, No excuse, death for abuse.
 
+### The Honeypot for Pedophiles
+### A solution designed to identify and track online pedophiles on social networks, and reporting them to the law enforcement authorities.
 
 JIRA : https://pedopot.atlassian.net/jira/core/projects/PEDO/board?groupBy=status
 <!--
